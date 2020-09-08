@@ -1,6 +1,6 @@
 # Kata-Rpg
 
-First iteration: Characters
+#First iteration: Characters
 A Character should have a name and a health pool.
 A Character's health is initialized at 100 and cannot go above this value.
 A Character can either be alive or dead - when it reaches 0 health points.
